@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<string-array name="pref_bg_color_names">
+		<item>@string/pref_color_classic_name</item>
+		<item>@string/pref_color_azure_name</item>
+		<item>@string/pref_color_mint_name</item>
+		<item>@string/pref_color_flame_name</item>
+		<item>@string/pref_color_jester_name</item>
+	</string-array>
+	<string-array name="pref_bg_color_values">
+		<item>@string/pref_color_classic_value</item>
+		<item>@string/pref_color_azure_value</item>
+		<item>@string/pref_color_mint_value</item>
+		<item>@string/pref_color_flame_value</item>
+		<item>@string/pref_color_jester_value</item>
+	</string-array>
+	<string-array name="pref_promotion_names">
+		<item>@string/pref_promotion_queen_name</item>
+		<item>@string/pref_promotion_rook_name</item>
+		<item>@string/pref_promotion_bishop_name</item>
+		<item>@string/pref_promotion_knight_name</item>
+	</string-array>
+	<string-array name="pref_promotion_values">
+		<item>@string/pref_promotion_queen_value</item>
+		<item>@string/pref_promotion_rook_value</item>
+		<item>@string/pref_promotion_bishop_value</item>
+		<item>@string/pref_promotion_knight_value</item>
+	</string-array>
+
+</resources>

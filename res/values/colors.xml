@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<!-- Classic -->
+	<color name="light_default_classic">#FFFFFFFF</color>
+	<color name="light_selected_classic">#FFCCEECC</color>
+	<color name="light_pressed_classic">#FFCCCCEE</color>
+	<color name="dark_default_classic">#FF888888</color>
+	<color name="dark_selected_classic">#FF88AA88</color>
+	<color name="dark_pressed_classic">#FF8888AA</color>
+	<color name="board_border_classic">#FF8888AA</color>
+
+	<!-- Azure -->
+	<color name="light_default_azure">#FFFFFFFF</color>
+	<color name="light_selected_azure">#FFCCEECC</color>
+	<color name="light_pressed_azure">#FFCCCCEE</color>
+	<color name="dark_default_azure">#FFCCCCEE</color>
+	<color name="dark_selected_azure">#FFBBDDBB</color>
+	<color name="dark_pressed_azure">#FFBBBBDD</color>
+	<color name="board_border_azure">#FFBBBBDD</color>
+
+	<!-- Mint -->
+	<color name="light_default_mint">#FFADFCC3</color>
+	<color name="light_selected_mint">#88ADFCC3</color>
+	<color name="light_pressed_mint">#AAADFCC3</color>
+	<color name="dark_default_mint">#FF68AF76</color>
+	<color name="dark_selected_mint">#8868AF76</color>
+	<color name="dark_pressed_mint">#AA76AF68</color>
+	<color name="board_border_mint">#AA76AF68</color>
+
+	<!-- Flame -->
+	<color name="light_default_flame">#FFFFE1CA</color>
+	<color name="light_selected_flame">#88FFE1CA</color>
+	<color name="light_pressed_flame">#AAFFE1CA</color>
+	<color name="dark_default_flame">#FFCD917F</color>
+	<color name="dark_selected_flame">#88CD917F</color>
+	<color name="dark_pressed_flame">#AACD7F91</color>
+	<color name="board_border_flame">#AACD7F91</color>
+
+	<!-- Jester -->
+	<color name="light_default_jester">#FF27FB02</color>
+	<color name="light_selected_jester">#8827FB02</color>
+	<color name="light_pressed_jester">#AA27FB02</color>
+	<color name="dark_default_jester">#FFE90CE9</color>
+	<color name="dark_selected_jester">#88E90CE9</color>
+	<color name="dark_pressed_jester">#AAE9E90C</color>
+	<color name="board_border_jester">#AAE9E90C</color>
+
+</resources>

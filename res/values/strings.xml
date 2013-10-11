@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<!-- General -->
+	<string name="app_name">Just Chess</string>
+	<string name="header_title">\u265A Just Chess \u2654</string>
+	<string name="new_game">New Game</string>
+	<string name="continue_game">Continue Game</string>
+	<string name="illegal_move">Illegal Move</string>
+	<string name="white_to_move">White to move</string>
+	<string name="black_to_move">Black to move</string>
+	<string name="white_wins">White wins</string>
+	<string name="black_wins">Black wins</string>
+	<string name="game_drawn">Game drawn</string>
+	<string name="test_moves">Test Moves</string>
+	<string name="action_settings">Settings</string>
+	<string name="notify_changes">Notify Adapter of Changes</string>
+	<string name="load_game_failed_ioex">Game could not be loaded. (IOException)</string>
+	<string name="load_game_failed_fnfex">Game could not be loaded. (FileNotFoundException)</string>
+
+	<!-- Preferences -->
+	<string name="pref_drag_and_drop">com.drakepitts.justchess.DRAG_AND_DROP</string>
+	<string name="pref_drag_and_drop_title">Drag and Drop</string>
+	<string name="pref_drag_and_drop_summ">Press and hold pieces to move</string>
+	<string name="pref_flip_board">com.drakepitts.justchess.FLIP_BOARD</string>
+	<string name="pref_flip_board_title">Flip board</string>
+	<string name="pref_flip_board_summ">View board from black side</string>
+	<string name="save_file">SAVE_FILE</string>
+	<string name="pref_prev_move">com.drakepitts.justchess.PREV_MOVE</string>
+	<string name="pref_prev_move_title">Highlight previous move</string>
+	<string name="pref_available_moves">com.drakepitts.justchess.PREV_MOVE</string>
+	<string name="pref_available_moves_title">Highlight available moves</string>
+	<string name="pref_available_moves_summ">Show available moves for selected piece</string>
+	<string name="pref_bg_color">com.drakepitts.justchess.BG_COLOR</string>
+	<string name="pref_bg_color_title">Chessboard color scheme</string>
+	<string name="pref_bg_color_dialog">Select color scheme</string>
+	<string name="pref_color_classic_name">Classic</string>
+	<string name="pref_color_azure_name">Azure</string>
+	<string name="pref_color_mint_name">Mint</string>
+	<string name="pref_color_flame_name">Flame</string>
+	<string name="pref_color_jester_name">Jester</string>
+	<string name="pref_color_classic_value">com.drakepitts.justchess.CLASSIC</string>
+	<string name="pref_color_azure_value">com.drakepitts.justchess.AZURE</string>
+	<string name="pref_color_mint_value">com.drakepitts.justchess.MINT</string>
+	<string name="pref_color_flame_value">com.drakepitts.justchess.FLAME</string>
+	<string name="pref_color_jester_value">com.drakepitts.justchess.JESTER</string>
+	<string name="pref_promotion_type">com.drakepitts.justchess.PROMOTION_TYPE</string>
+	<string name="pref_promotion_type_title">Pawn promotion type</string>
+	<string name="pref_promotion_type_dialog">Pawns promote to&#8230;</string>
+	<string name="pref_promotion_queen_name">Queen</string>
+	<string name="pref_promotion_rook_name">Rook</string>
+	<string name="pref_promotion_bishop_name">Bishop</string>
+	<string name="pref_promotion_knight_name">Knight</string>
+	<string name="pref_promotion_queen_value">com.drakepitts.justchess.QUEEN</string>
+	<string name="pref_promotion_rook_value">com.drakepitts.justchess.ROOK</string>
+	<string name="pref_promotion_bishop_value">com.drakepitts.justchess.BISHOP</string>
+	<string name="pref_promotion_knight_value">com.drakepitts.justchess.KNIGHT</string>
+
+	<!-- Unicode Chess Pieces -->
+	<string name="white_king">\u2654</string>
+	<string name="white_queen">\u2655</string>
+	<string name="white_rook">\u2656</string>
+	<string name="white_bishop">\u2657</string>
+	<string name="white_knight">\u2658</string>
+	<string name="white_pawn">\u2659</string>
+	<string name="black_king">\u265A</string>
+	<string name="black_queen">\u265B</string>
+	<string name="black_rook">\u265C</string>
+	<string name="black_bishop">\u265D</string>
+	<string name="black_knight">\u265E</string>
+	<string name="black_pawn">\u265F</string>
+
+</resources>

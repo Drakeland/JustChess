@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+	android:key="@string/save_file" >
+
+	<CheckBoxPreference
+		android:defaultValue="false"
+		android:key="@string/pref_flip_board"
+		android:summary="@string/pref_flip_board_summ"
+		android:title="@string/pref_flip_board_title" />
+	<CheckBoxPreference
+		android:defaultValue="true"
+		android:key="@string/pref_drag_and_drop"
+		android:summary="@string/pref_drag_and_drop_summ"
+		android:title="@string/pref_drag_and_drop_title" />
+
+	<ListPreference
+		android:defaultValue="@string/pref_color_azure_value"
+		android:dialogTitle="@string/pref_bg_color_dialog"
+		android:entries="@array/pref_bg_color_names"
+		android:entryValues="@array/pref_bg_color_values"
+		android:key="@string/pref_bg_color"
+		android:title="@string/pref_bg_color_title" />
+	<ListPreference
+		android:defaultValue="@string/pref_promotion_queen_name"
+		android:dialogTitle="@string/pref_promotion_type_dialog"
+		android:entries="@array/pref_promotion_names"
+		android:entryValues="@array/pref_promotion_values"
+		android:key="@string/pref_promotion_type"
+		android:title="@string/pref_promotion_type_title" />
+
+</PreferenceScreen>

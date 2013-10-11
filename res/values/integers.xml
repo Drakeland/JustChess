@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<integer name="pref_color_azure_value">44</integer>
+	<integer name="pref_color_mint_value">55</integer>
+	<integer name="pref_color_flame_value">66</integer>
+	<integer name="pref_color_carnivale_value">77</integer>
+
+</resources>
